@@ -1,2 +1,4 @@
 # log4shell-pgen
-This Script Is Generating a Log4Shell Payload 
+Installation : `git clone https://github.com/magnouni/log4shell-pgen.git`
+
+***Usage*** : `python3 log4shell.py`
