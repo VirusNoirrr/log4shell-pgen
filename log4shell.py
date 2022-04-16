@@ -2,8 +2,8 @@ import os, sys
 import time
 t = time
 os.system("clear")
-print("Github : github.com/magnouni")
-print("Instagram : instagram.com/pnl_anonymous")
+print("Github : github.com/VirusNoirrr")
+print("Instagram : instagram.com/inject_elliot")
 print("Welcom To Log4Shell Payload Generator")
 t.sleep(1)
 t.sleep(0.5)
