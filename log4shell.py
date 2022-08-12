@@ -1,4 +1,5 @@
 import os, sys
+import ultrarequests
 import time
 t = time
 os.system("clear")
