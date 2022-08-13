@@ -4,7 +4,7 @@ import time
 t = time
 os.system("clear")
 print("Github : github.com/VirusNoirrr")
-print("Instagram : instagram.com/inject_elliot")
+print("Instagram : instagram.com/not_elli0t")
 print("Welcom To Log4Shell Payload Generator")
 t.sleep(1)
 t.sleep(0.5)
